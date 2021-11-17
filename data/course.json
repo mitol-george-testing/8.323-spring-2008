@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3d0b085b-3b49-dc03-1a30-85de9ff67612"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Relativistic Quantum Field Theory I",
+  "course_description": "8.323, Relativistic Quantum Field Theory I, is a one-term self-contained subject in quantum field theory. Concepts and basic techniques are developed through applications in elementary particle physics, and condensed matter physics.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.323",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
